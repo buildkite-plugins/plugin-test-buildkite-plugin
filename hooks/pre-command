@@ -1,1 +1,1 @@
-echo 'Hello from the test-plugin pre-command hook'
+echo 'Hello from the plugin-test-plugin pre-command hook'
